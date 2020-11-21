@@ -1,0 +1,107 @@
+10:12:14=>projectManager 1.0.7.1 started!
+10:12:14=>PluginPath: C:\Program Files\WaterProof\PHPEdit\1.0\Plugins\ProjectManager
+10:12:14=>StoragePath submitted from PHPEdit: C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\
+10:12:14=>used StoragePath: C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager
+10:12:14=>PhpEdit.ini-path: C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\phpedit.ini found
+10:12:14=>projectManagerDll-path: C:\Program Files\WaterProof\PHPEdit\1.0\Plugins\ProjectManager\projectManager.dll
+10:12:14=>Reading options from C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI
+10:12:14=>Reading options from C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\phpedit.ini
+10:12:14=>Reading option [bShowCVSDirs] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = false
+10:12:14=>Reading option [bConfirmDelete] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = true
+10:12:14=>Reading option [uiHidingTimer] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = 2500
+10:12:14=>Reading option [bNoCollapse] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = false
+10:12:14=>Reading option [bIsChildWnd] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = true
+10:12:14=>Reading option [bCheckOutOnOpen] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = false
+10:12:14=>Reading option [nMRUFiles] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = 8
+!WARNING:10:12:14=>Reading option [defaultTRLocation] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:14=>Reading option [defaultHGLocation] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:14=>Reading option [defaultTRTemplateSetLocation] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:14=>Reading option [defaultHGTemplateSetLocation] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+10:12:14=>Reading option [defaultIncludeFilter] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = php;html;css;js
+10:12:14=>Reading option [defaultExcludeFilter] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = scc;prj
+!WARNING:10:12:14=>Reading option [defaultFTPServer] of section [FTP] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:14=>Reading option [defaultFTPUserName] of section [FTP] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:14=>Reading option [defaultFTPPassword] of section [FTP] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:14=>Reading option [defaultFTPStartupDir] of section [FTP] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+10:12:14=>Reading option [defaultFTPPort] of section [FTP] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = 21
+10:12:14=>Reading option [nURLFiles] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = 8
+10:12:14=>Reading option [nTaskFiles] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = 8
+10:12:14=>Reading option [nSnippetFiles] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = 8
+10:12:14=>Reading option [nActionFiles] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = 8
+10:12:14=>Reading option [nToolFiles] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = 8
+10:12:14=>Reading option [treeViewHeight] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = -1
+10:12:14=>Reading option [urlTreeViewHeight] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = -1
+10:12:14=>Reading option [tasksViewHeight] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = -1
+10:12:14=>Reading option [snippetsViewHeight] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = -1
+10:12:14=>Reading option [actionsViewHeight] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = -1
+10:12:14=>Reading option [toolsViewHeight] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = 100
+10:12:14=>Reading option [bFilesSortOrder] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = true
+10:12:14=>Reading option [iFilesSortColumn] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = 1
+10:12:14=>Reading option [iFilesColWidth1] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = 182
+10:12:14=>Reading option [iFilesColWidth2] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = 77
+10:12:14=>Reading option [iFilesColWidth3] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = 51
+10:12:14=>Reading option [iFilesColWidth4] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = 120
+10:12:14=>Reading option [bTasksSortOrder] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = true
+10:12:14=>Reading option [iTasksSortColumn] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = 0
+10:12:14=>Reading option [iTasksColWidth1] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = 58
+10:12:14=>Reading option [iTasksColWidth2] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = 95
+10:12:14=>Reading option [iTasksColWidth3] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = 120
+10:12:14=>Reading option [MainWndTop] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = 108
+10:12:14=>Reading option [MainWndLeft] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = 708
+10:12:14=>Reading option [MainWndRight] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = 1031
+10:12:14=>Reading option [MainWndBottom] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = 611
+!WARNING:10:12:14=>Reading option [0] of section [MRU-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:14=>Reading option [1] of section [MRU-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:14=>Reading option [2] of section [MRU-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:14=>Reading option [3] of section [MRU-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:14=>Reading option [4] of section [MRU-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:14=>Reading option [5] of section [MRU-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:14=>Reading option [6] of section [MRU-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:14=>Reading option [7] of section [MRU-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:14=>Reading option [0] of section [URL-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:14=>Reading option [1] of section [URL-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:14=>Reading option [2] of section [URL-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:14=>Reading option [3] of section [URL-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:14=>Reading option [4] of section [URL-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:14=>Reading option [5] of section [URL-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:14=>Reading option [6] of section [URL-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:14=>Reading option [7] of section [URL-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:14=>Reading option [0] of section [Task-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:14=>Reading option [1] of section [Task-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:14=>Reading option [2] of section [Task-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:14=>Reading option [3] of section [Task-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:14=>Reading option [4] of section [Task-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:14=>Reading option [5] of section [Task-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:14=>Reading option [6] of section [Task-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:14=>Reading option [7] of section [Task-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:15=>Reading option [0] of section [Snippet-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:15=>Reading option [1] of section [Snippet-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:15=>Reading option [2] of section [Snippet-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:15=>Reading option [3] of section [Snippet-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:15=>Reading option [4] of section [Snippet-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:15=>Reading option [5] of section [Snippet-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:15=>Reading option [6] of section [Snippet-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:15=>Reading option [7] of section [Snippet-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:15=>Reading option [0] of section [Action-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:15=>Reading option [1] of section [Action-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:15=>Reading option [2] of section [Action-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:15=>Reading option [3] of section [Action-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:15=>Reading option [4] of section [Action-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:15=>Reading option [5] of section [Action-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:15=>Reading option [6] of section [Action-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:15=>Reading option [7] of section [Action-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:15=>Reading option [0] of section [Tool-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:15=>Reading option [1] of section [Tool-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:15=>Reading option [2] of section [Tool-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:15=>Reading option [3] of section [Tool-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:15=>Reading option [4] of section [Tool-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:15=>Reading option [5] of section [Tool-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:15=>Reading option [6] of section [Tool-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+!WARNING:10:12:15=>Reading option [7] of section [Tool-Files] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] failed! use default = 
+10:12:15=>Reading option [language] of section [Options] from file [C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\ProjectManager.INI] value = English (English)
+10:12:15=>XML::init succeeded with code 0
+10:12:15=>Creating document ... done
+10:12:15=>Creating frame window ... done
+10:12:15=>phpEditWindow-title: PHPEdit v1.0.4.82, window found
+10:12:15=>Try reading browsers from C:\Documents And Settings\Morshed\Application Data\WaterProof\PHPEdit\1.0\plugins\ProjectManager\browsers.xml
+!WARNING:10:12:15=>Reading browsers ... failed

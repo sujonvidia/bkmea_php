@@ -1,0 +1,46 @@
+<html>
+<head>
+<title>Sample JS Calender</title>
+
+		<!-- calendar stylesheet -->
+		<LINK title="win2k-cold-1" media="all" href="calendar-blue.css" type="text/css" rel="stylesheet">
+		<!-- main calendar program -->
+		<script src="calendar.js" type="text/javascript"></script>
+		<!-- language for the calendar -->
+		<script src="lang/calendar-en.js" type="text/javascript"></script>
+		<!-- the following script defines the Calendar.setup helper function, which makes adding a calendar a matter of 1 or 2 lines of code. -->
+		<script src="calendar-setup.js" type="text/javascript"></script>
+</head>
+<body>
+	<form name="mainform">
+		<input type="text" name="text1" id="text1" size="30"><img src="calender.gif" id="img1">
+		<br />
+		<input type="text" name="text2" id="text2"  size="30"><img src="calender.gif" id="img2">
+		<br />
+	</form>
+		<script type="text/javascript">
+			Calendar.setup({
+			inputField     :    "text1",      // id of the input field
+			ifFormat	   :	"%d-%B-%Y %H:%M",
+			showsTime      :    false,            // will display a time selector
+			button         :    "img1",   // trigger for the calendar (button ID)
+			singleClick    :    true,           // double-click mode
+			step           :    1                // show all years in drop-down boxes (instead of every other 							year as default)
+
+		});
+
+		</script>
+		<script type="text/javascript">
+			Calendar.setup({
+			inputField     :    "text2",      // id of the input field
+			ifFormat	   :	"%d-%m-%Y",
+			showsTime      :    false,            // will display a time selector
+			button         :    "img2",   // trigger for the calendar (button ID)
+			singleClick    :    true,           // double-click mode
+			step           :    1                // show all years in drop-down boxes (instead of every other 									year as default)
+			});
+
+		</script>
+
+</body>
+</html>

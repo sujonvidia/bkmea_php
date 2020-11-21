@@ -1,0 +1,168 @@
+/**
+* @version $Id: admin_login.css,v 1.4 2005/01/06 01:13:26 eddieajau Exp $
+* @package Mambo
+* @copyright (C) 2000 - 2005 Miro International Pty Ltd
+* @license http://www.gnu.org/copyleft/gpl.html GNU/GPL
+* Mambo is Free Software
+*/
+
+body {
+	margin: 0px;
+	padding: 0px;
+	color : #013288;
+	background-color : #EFF3FC;
+	font-size : 11px;
+	font-family : Arial, Helvetica, sans-serif;
+	SCROLLBAR-FACE-COLOR: #dce0e2; 
+	SCROLLBAR-SHADOW-COLOR: #687888; 
+	SCROLLBAR-3DLIGHT-COLOR: #687888; 
+	SCROLLBAR-ARROW-COLOR: #6e7e88; 
+	SCROLLBAR-DARKSHADOW-COLOR: #dce0e2
+	
+}
+
+#wrapper {
+        border: 0px;
+        margin: 0px;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 0px;
+}
+
+#header {
+        background-color: #FFF;
+        background-position: right top;
+        border-bottom: 4px solid #2E75E9;
+}
+
+#mambo {
+        position: relative;
+        width: 100%;
+        background: url(../images/header.png) #FFF no-repeat;
+        background-position: top right;
+        margin: 0px;
+        padding: 0px;
+}
+
+#break {
+	height: 50px;
+}
+
+form {
+    margin: 0px;
+}
+
+.button {
+	border-top : solid 1px #96B9F5;
+	border-right : solid 1px #4374C8;
+	border-bottom : solid 1px #4374C8;
+	border-left : solid 1px #96B9F5;
+	background: #E3EBFA;
+	color : #0765CB;
+	font-weight : bold;
+	font-family: Tahoma, Verdana, Helvetica, sans-serif;
+	font-size: 11px;
+	padding:4;
+}
+
+.login {
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 6em;
+	padding: 15px;
+	border: 1px solid #96B9F5;
+	width: 429px;
+	background: #E4EBF8;
+}
+	
+.login h1 {
+	background: url(../images/login_header.png) no-repeat;
+	background-position: left top;
+	color: #013288;
+	margin: 0px;
+	height: 50px;
+	padding: 15px 4px 0 50px;
+ 	text-align: left;
+	font-size: 1.5em;
+}
+
+.login p {
+	padding: 0 1em 0 1em;
+	}
+	
+.form-block {
+	border: 1px solid #96B9F5;
+	background: #DAE2F1;
+	padding-top: 15px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+}
+
+.login-form {
+	text-align: left;
+	float: right;
+	width: 60%;
+}
+
+.login-text {
+	text-align: left;
+	width: 40%;
+	float: left;
+}
+
+.inputlabel {
+	font-weight: bold;
+	text-align: left;
+	}
+
+.inputbox {
+	width: 150px;
+	margin: 0 0 1em 0;
+	border: 1px solid #96B9F5;
+	}
+
+.clr {
+    clear:both;
+    }
+
+.ctr {
+	text-align: center;
+}
+
+.version {
+	font-size: 0.8em;
+}
+
+.footer {
+
+}
+/* New Style */
+.copyright
+{
+	COLOR: #00008B; 
+	FONT-SIZE: 11px; 
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; 
+	text-decoration: none;
+}
+a.copyright:link
+{
+	COLOR: #00008B; 
+	FONT-SIZE: 11px; 
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; 
+	text-decoration: none;
+}
+a.copyright:visited
+{
+	COLOR: #00008B; 
+	FONT-SIZE: 11px; 
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; 
+	text-decoration: none;
+}
+a.copyright:hover
+{
+	COLOR: #00008B; 
+	FONT-SIZE: 11px; 
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif; 
+	text-decoration: none;
+}

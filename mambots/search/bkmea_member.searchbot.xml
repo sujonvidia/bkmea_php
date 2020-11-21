@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<mosinstall version="4.5.2" type="mambot" group="search">
+	<name>member searchbot</name>
+	<author>Camellia Project</author>
+	<creationDate>August 2004</creationDate>
+	<copyright>(C) 2000 - 2005 MISLBD</copyright>
+	<license></license>
+	<authorEmail></authorEmail>
+	<authorUrl></authorUrl>
+	<version>4.5.2</version>
+	<description>Allows Searching of all Content items</description>
+	<files>
+		<filename mambot="member.searchbot">member.searchbot.php</filename>
+	</files>
+	<params/>
+</mosinstall>

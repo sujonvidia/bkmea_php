@@ -1,0 +1,95 @@
+<?xml version="1.0"?>
+<mosinstall type="component" version="4.5.1">
+  <name>baBackup</name>
+  <creationDate>April 2005</creationDate>
+  <author>bigAPE Development</author>
+  <copyright>This component is released under the GNU/GPL License</copyright>
+  <authorEmail>support@bigape.co.uk</authorEmail>
+  <authorUrl>www.bigape.co.uk</authorUrl>
+  <version>1.1</version>
+  <description>
+    <![CDATA[
+      <a href="http://www.bigape.co.uk"><img src="http://bigape.co.uk/images/stories/banners/banner-backup-component.jpg" border=0></a><br/>
+      <h2>bigAPE Backup</h2>
+      <b>Background</b><br/>
+      During the management of several Mambo sites we came across the need to archive the entire Mambo file system and database archive into a single compressed archive.
+      <br/><br/>
+      <b>Solution</b><br/>
+      We have attempted to use existing Mambo API features where possible and have implemented a basic full site backup system.<br/>
+      The component does not have a client facing interface and all functionality is managed through the administration screens.<br/>
+      The component has been developed to be as simple to use as possible.
+      <br/><br/>
+      <b>Compatibility</b><br/>
+      We have tested this component against the following Mambo configurations:<ul>
+      <li>Linux, Apache, MySQL</li>
+      <li>Windows XP/2000/2003, Apache, MySQL</li>
+      <li>Windows XP/2000/2003, IIS, MySQL</li>
+      <li>Mac OSX, Apache, MySQL (untested)</li>
+      <li>Mambo v4.5.1 (or above)</li>
+      </ul>
+      <b>Features</b><br/>
+      The Component provides a basic site backup feature set. The following features are currently offered:<ul>
+      <li>Ability to backup the entire Mambo file and database system to a compressed file.</li>
+      <li>Ability to select which folders to include and exclude from the backup</li>
+      <li>Ability to download & manage archives of the Mambo file system</li>
+      <li>Ability to generate, download & manage archives of the Mambo mySQL database</li>
+      <li>Archives files are unqiue to the Mambo installation based on creation time and secret key</li>
+      <li>Backup excludes existing backup sets to conserve space</li>
+      </ul>
+      <b>License</b><br/>
+      This program is free software; you can redistribute it and/or modify it under the terms of the<br/>
+      GNU General Public License as published by the Free Software Foundation; either version 2 of the <br/>
+      License, or (at your option) any later version. This program is distributed in the hope that it<br/>
+      will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or<br/>
+      FITNESS FOR A PARTICULAR PURPOSE.  See the GNU General Public License for more details. You should<br/>
+      have received a copy of the GNU General Public License along with this program; if not, write to the<br/>
+      Free Software Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA. or <br/>
+      alternatively the "GNU General Public License" (GPL) is available at <a href="http://www.gnu.org/copyleft/gpl.html">http://www.gnu.org/copyleft/gpl.html</a>
+      <br/><p/><br/>
+      bigAPE Development Ltd &copy; 1998-2005 | <a href="http://www.bigape.co.uk">www.bigape.co.uk</a>
+      <br/><p/><br/>
+      <table border=0>
+      <tr><th>&nbsp;</th><th>&nbsp;</th></tr>
+      <tr><td>&nbsp;</td><td>&nbsp;</td></tr>
+      </table>
+    ]]>
+  </description>
+  <files />
+  <images />
+  <install />>
+  <uninstall />
+  <installfile>install.babackup.php</installfile>
+  <uninstallfile />
+  <administration>
+    <menu>Site Backup</menu>
+    <submenu>
+      <menu task="show">View Backups</menu>
+      <menu task="showdb">View BD Backups</menu>
+      <menu task="confirm">Create Backup</menu>
+      <menu task="credits">Credits</menu>
+    </submenu>
+    <files>
+      <filename>admin.babackup.php</filename>
+      <filename>admin.babackup.html.php</filename>
+      <filename>toolbar.babackup.php</filename>
+      <filename>toolbar.babackup.html.php</filename>
+      <filename>install.babackup.php</filename>
+      <filename>index.html</filename>
+      <filename>backups/index.html</filename>
+      <filename>classes/index.html</filename>
+      <filename>classes/Tar.php</filename>
+      <filename>classes/PEAR.php</filename>
+      <filename>language/index.html</filename>
+      <filename>language/brazilian_portuguese.php</filename>
+      <filename>language/croatian.php</filename>
+      <filename>language/english.php</filename>
+      <filename>language/danish.php</filename>
+      <filename>language/french.php</filename>
+      <filename>language/hebrew.php</filename>
+      <filename>language/polish.php</filename>
+      <filename>docs/index.html</filename>
+      <filename>docs/babackup_user_guide.pdf</filename>
+    </files>
+    <images/>
+  </administration>
+</mosinstall>
